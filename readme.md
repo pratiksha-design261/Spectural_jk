@@ -10,4 +10,12 @@ B. Push changes frm local to remote repo
 
 C. To check staus of file 
        1. git status
-       
+
+D. Add new project from local to remote 
+       1. Add new foder <mkdir (folder name )>
+       2. git init 
+       3. git remote add origin <-link->
+       4. git remote -v (to verify remote)
+       5. git branch    (to check branch )
+       6. git branch -M main   (to rename branch)
+       7. git push origin main
