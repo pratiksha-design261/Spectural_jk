@@ -25,5 +25,6 @@ E. Pull Remote repo changes to local repo
      2. git fetch origin <branch name>
      3. git branch -vva
      4. git checkout <branch name>
+     5. git pull 
      
       
