@@ -21,5 +21,4 @@ D. Add new project from local to remote
        7. git push origin main
 
 E. Pull Remote repo changes to local repo
-      1. Git init
-      2. git pull <https link>
+      
