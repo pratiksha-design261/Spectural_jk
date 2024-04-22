@@ -22,5 +22,8 @@ D. Add new project from local to remote
 
 E. Pull Remote repo changes to local repo
      1. git branch -vva
-     2.
+     2. git fetch origin <branch name>
+     3. git branch -vva
+     4. git checkout <branch name>
+     
       
