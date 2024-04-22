@@ -21,4 +21,6 @@ D. Add new project from local to remote
        7. git push origin main
 
 E. Pull Remote repo changes to local repo
+     1. git branch -vva
+     2.
       
